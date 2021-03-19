@@ -1,4 +1,4 @@
-# Tuya Wi-Fi & Bluetooth Smart Indoor Garden Lite
+# Tuya Wi-Fi & Bluetooth Smart Indoor Planter Lite
 
 [English](./README.md) | [中文](./README-zh.md)
 
@@ -8,6 +8,11 @@ The demo lets you easily build a smart indoor garden and connect it to the Tuya 
 * Remote control with an app.
 * Dim the warm white and multi-color grow light.
 * Self-watering and scheduled light filling.
+
+|                             Smart Indoor Planter Lite                       |
+| :----------------------------------------------------------: |
+| <img src="https://images.tuyacn.com/app/Hanh/2.jpg" alt="7f02e6c5e6654a882713361ae88a679c" style="zoom:10%;" width="400" /> | 
+[Lite Smart Planter Demo](https://developer.tuya.com/en/demo/smart-planter-lite)
 
 ## Get started
 
