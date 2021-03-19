@@ -9,6 +9,11 @@
 * RGBW四路LED自由调配光照颜色及强度
 * 自动浇水、定时补光
 
+|                             精简版智能植物生长机                           |
+| :----------------------------------------------------------: |
+| <img src="https://images.tuyacn.com/app/Hanh/2.jpg" alt="7f02e6c5e6654a882713361ae88a679c" style="zoom:20%;" width="400"/> | 
+[精简版智能植物生长机Demo](https://developer.tuya.com/cn/demo/smart-planter-lite)
+
 ## 快速上手
 
 ### 编译与烧录
